@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: build-human-idea
+package: smiletondi/build-human-idea
